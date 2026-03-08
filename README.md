@@ -12,7 +12,8 @@ Yazılım geliştirme dünyasında kendimi geliştiriyor, yeni teknolojiler öğ
 
 ### 📂 Öne Çıkan Çalışmalarım
 
-- [🏠 Silan Gayrimenkul](https://github.com/silanaslan2/Bati-Istanbul-Gayrimenkul)
+- [🏠 Silan Gayrimenkul](https://github.com/SilanAslan2/Gayrimenkul.git)
+
   - PHP ve MySQL tabanlı, dinamik bir gayrimenkul platformu. İlan yönetimi ve filtreleme özellikleri içerir.
 
 
