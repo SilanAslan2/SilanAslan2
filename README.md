@@ -1,16 +1,25 @@
-## Hi there 👋
+# Merhaba, Ben Şilan! 👋
 
-<!--
-**SilanAslan2/SilanAslan2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Bilgisayar Mühendisliği 2. Sınıf Öğrencisiyim**
 
-Here are some ideas to get you started:
+Yazılım geliştirme dünyasında kendimi geliştiriyor, yeni teknolojiler öğrenmekten büyük bir zevk alıyorum. Projeler yaparak öğrendiklerimi pekiştiriyorum.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Kullandığım Teknolojiler
+- **Diller:**  C++,C#,Java
+- **Web & Veritabanı:** HTML5, MySQL
+- **Araçlar:** Git, GitHub, VS Code
+
+
+### 📂 Öne Çıkan Çalışmalarım
+
+- [🏠 Batı İstanbul Gayrimenkul](https://github.com/silanaslan2/Bati-Istanbul-Gayrimenkul)
+  - PHP ve MySQL tabanlı, dinamik bir gayrimenkul platformu. İlan yönetimi ve filtreleme özellikleri içerir.
+
+
+---
+
+📫 **Bana Ulaşın:**
+- [LinkedIn Profil Linkin Buraya]
+- [E-posta Adresin Buraya]
+
+![Şilan's GitHub stats](https://github-readme-stats.vercel.app/api?username=silanaslan2&show_icons=true&theme=radical)
