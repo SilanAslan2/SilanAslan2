@@ -5,7 +5,7 @@
 Yazılım geliştirme dünyasında kendimi geliştiriyor, yeni teknolojiler öğrenmekten büyük bir zevk alıyorum. Projeler yaparak öğrendiklerimi pekiştiriyorum.
 
 ### 🛠️ Kullandığım Teknolojiler
-- **Diller:**  C++,C#,Java
+- **Diller:**  Python,C#
 - **Web & Veritabanı:** HTML5, MySQL
 - **Araçlar:** Git, GitHub, VS Code
 
